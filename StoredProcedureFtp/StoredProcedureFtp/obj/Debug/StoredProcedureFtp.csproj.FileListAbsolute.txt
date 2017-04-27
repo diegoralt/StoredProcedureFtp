@@ -1,0 +1,6 @@
+c:\users\diegoreyesaltamirano\documents\visual studio 2017\Projects\StoredProcedureFtp\StoredProcedureFtp\bin\Debug\StoredProcedureFtp.exe.config
+c:\users\diegoreyesaltamirano\documents\visual studio 2017\Projects\StoredProcedureFtp\StoredProcedureFtp\bin\Debug\StoredProcedureFtp.exe
+c:\users\diegoreyesaltamirano\documents\visual studio 2017\Projects\StoredProcedureFtp\StoredProcedureFtp\bin\Debug\StoredProcedureFtp.pdb
+c:\users\diegoreyesaltamirano\documents\visual studio 2017\Projects\StoredProcedureFtp\StoredProcedureFtp\obj\Debug\StoredProcedureFtp.csprojResolveAssemblyReference.cache
+c:\users\diegoreyesaltamirano\documents\visual studio 2017\Projects\StoredProcedureFtp\StoredProcedureFtp\obj\Debug\StoredProcedureFtp.exe
+c:\users\diegoreyesaltamirano\documents\visual studio 2017\Projects\StoredProcedureFtp\StoredProcedureFtp\obj\Debug\StoredProcedureFtp.pdb
