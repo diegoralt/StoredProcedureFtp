@@ -91,3 +91,7 @@ public static void createFile(List<string> file)
   response.Close();
 }
 ```
+
+Para más información pueden consultar
+- https://msdn.microsoft.com/en-us/library/d7125bke.aspx
+- https://msdn.microsoft.com/es-es/library/system.net.ftpwebrequest(v=vs.110).aspx
